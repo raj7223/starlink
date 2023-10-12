@@ -12,7 +12,7 @@ function App() {
       <header className='header'>
       <GoogleLogo />
       <SearchBar />
-      <MenuBar />
+      <MenuBars />
 
       </header>
 
